@@ -7,6 +7,7 @@ This will return all available authors from foxnews and input them as object int
 It will then crawl the personal sites of each author and get the lastest articles by him/her.
 
 Step 1: spider crwal fox_people
+
 Step 2: execute main.py , it will iniate a CrawlerRunner
 
 Used:
