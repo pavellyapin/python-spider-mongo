@@ -8,7 +8,7 @@ It will then crawl the personal sites of each author and get the lastest article
 
 Step 1: spider crwal fox_people
 
-Step 2: execute main.py , it will iniate a CrawlerRunner
+Step 2: execute main.py , it will initiate a CrawlerRunner
 
 Used:
 - MongoDB
